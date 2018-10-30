@@ -1,0 +1,4 @@
+com\bailiban\aigou\service\IDeptService.class
+com\bailiban\aigou\dao\IDeptDAO.class
+com\bailiban\aigou\entity\Dept.class
+com\bailiban\aigou\service\impl\DeptServiceImpl.class
